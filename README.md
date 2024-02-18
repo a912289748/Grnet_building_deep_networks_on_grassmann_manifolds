@@ -1,3 +1,4 @@
 # Grnet_building_deep_networks_on_grassmann_manifolds
 building deep networks on grassmann manifolds pytorch version
 第一个github上的grassmann深度学习的pytorch版本 不会运行的私信我
+这个不要下载了。我写了新的版本，这个部分反向传播是错误的
